@@ -1,14 +1,4 @@
-/*************************************************************************
- *
- *  Copyright (c) 2015 Cornell University
- *  Computer Systems Laboratory
- *  Cornell University, Ithaca, NY 14853
- *  All Rights Reserved
- *
- *  $Id$
- *
- **************************************************************************
- */
+
 #include "3140_concur.h"
 #include <stdlib.h>
 
