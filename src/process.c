@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <fsl_device_registers.h>
 
-// NetID: vsp22, it233
 
 struct process_state {
 	unsigned int *sp;
