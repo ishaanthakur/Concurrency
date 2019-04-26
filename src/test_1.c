@@ -1,5 +1,4 @@
  /* Test Case- 1
-Netid-it233 & vsp22
 
 There is only one call to [process_create].
 Expected output-if only P1 is called, that process gets added to queue
